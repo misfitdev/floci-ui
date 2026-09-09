@@ -26,7 +26,7 @@
     "@aws-sdk/client-sqs": "^3.1076.0",
     "@aws-sdk/util-dynamodb": "^3.996.7",
     "dotenv": "^17.4.2",
-    "hono": "^4.12.27",
+    "hono": "^4.13.5",
     "mssql": "^12.7.0",
     "pg": "^8.22.0"
   },
